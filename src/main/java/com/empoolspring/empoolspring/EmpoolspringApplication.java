@@ -1,13 +1,13 @@
-package com.aman.web;
+package com.empoolspring.empoolspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserManagementApplication {
+public class EmpoolspringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserManagementApplication.class, args);
+		SpringApplication.run(EmpoolspringApplication.class, args);
 	}
 
 }
